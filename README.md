@@ -1,2 +1,2 @@
-# predicciones-de-ventas-alimenticias
+# Predicciones-de-ventas-alimenticias
 Predecir ventas para productos alimenticios vendidos en diversas tiendas.
